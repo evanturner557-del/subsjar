@@ -33,3 +33,5 @@ footer{padding:36px 0 48px;font-size:.9rem;border-top:1px solid color-mix(in srg
 .check h3{margin-top:18px}.check label{display:flex;gap:10px;align-items:flex-start;padding:6px 0}.check input{width:20px;height:20px;accent-color:var(--acc)}
 .legal{max-width:760px}.legal h2{font-size:1.3rem;margin-top:1.6em}
 .hero .wrap>.inner{background:var(--soft);border-radius:calc(var(--r)*2);padding:48px;display:grid;grid-template-columns:1.3fr .7fr;gap:36px;align-items:center}@media(max-width:800px){.hero .wrap>.inner{grid-template-columns:1fr;padding:28px}}.tint{background:transparent}.tint .wrap{background:var(--soft);border-radius:calc(var(--r)*2);padding:40px 28px}
+
+.fine.fine-gap{margin-top:18px}
